@@ -8,7 +8,6 @@ This project demonstrates real-time location updates using **Apache Kafka** with
 ---
 
 ## **Project Structure**
-E-Commerce/
 │── deliveryboy/ # Producer service
 │ ├── src/main/java/com/deliveryboy
 │ │ ├── config # Kafka Producer Configuration
@@ -22,14 +21,6 @@ E-Commerce/
 │ │ ├── config # Kafka Consumer Configuration
 │ │ ├── AppConstant # Application constants
 │ │ ├── EnduserApplication.java
-│
-└── pom.xml # Maven Project Configuration
-
-yaml
-
-
-
----
 
 ## **Tech Stack**
 - **Java 17**
